@@ -1,7 +1,6 @@
 from tkinter import * #imports the entire tkinter library
 from tkinter import messagebox #Imports the text boxes
 import random #imports the things to get pick the ansewer
-#thanks asehlaoui for the base code
 
 root = Tk() #blank window called 'root'
 root.title("Magicball")#names the window
