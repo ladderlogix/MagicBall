@@ -5,11 +5,13 @@ A program that tells you your future
 Fairly easy and standerd
 
 1.) Git clone
-''' Bash
+``` Bash
 git clone github.com/sglombicki/Magicball.git
-'''
+```
 
 2.) Install requiremnets
-''' Bash
+``` Bash
 pip install requiremnets.txt
-'''
+```
+
+3.) Run main.py
