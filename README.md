@@ -15,3 +15,4 @@ pip install requiremnets.txt
 ```
 
 3.) Run main.py
+Window pops up with magic ball
