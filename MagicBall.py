@@ -26,7 +26,7 @@ def check_name(): #creates the function to be called once the button is pressed
 
     #Sees if you typed a message if not will display Enter Question with the window title Error
     if question =="Does Stephen have a girlfriend?":
-        messagebox.showinfo("Answer","NO")
+        messagebox.showinfo("Answer","Yes")
 
     if question == "Does Vincent have a girlfriend?":
         messagebox.showinfo("Answer","YES")
